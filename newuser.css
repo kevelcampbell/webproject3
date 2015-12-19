@@ -1,0 +1,43 @@
+body {
+    background-image: url(CheaWallpapers.jpg);
+    color:white;
+}
+
+input {
+    display:block;
+}
+
+#button {
+    background-color: white;
+}
+
+#Error {
+    color: red;
+    float: right;
+}
+
+form {
+    background-image: inherit;
+    background-color: #434DFC;
+    background-position:-457px 0px;
+    float: left;
+    font-family: "Tahoma","sans-serif";
+    font-size: 16px;
+    padding: 20px;
+    width: 360px;
+    margin-left:450px;
+    margin-top: -7px; 
+}
+
+span:first-child {
+    font-family:"Kunstler Script","Vivaldi","sans-serif";
+    font-weight: bold;
+    font-size: 60px;
+    text-align:center;
+}
+
+span {
+    font-family: "Algerian","sans-serif";
+    font-size: 32px;
+    text-align:center;
+}

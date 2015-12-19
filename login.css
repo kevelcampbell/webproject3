@@ -1,0 +1,44 @@
+input {
+    display:inline-block;
+}
+
+form {
+    background-image: inherit;
+    background-color: #434DFC;
+    background-position: -485px -190px ;
+    border: 2px solid white;
+    padding: 20px;
+    width: 360px;
+    margin:  190px auto;
+    color: white;
+}
+form div{
+    text-align: center;
+}
+#password {
+    margin-left: 11px;
+}
+
+body {
+    font-family: "Tahoma","sans-serif";
+    background: url("CheaWallpapers.jpg");
+}
+
+#button {
+    background-color: white;
+}
+
+#Error {
+    color: red;
+    float: right;
+}
+
+span {
+    font-family:"Brush Script MT","Vivaldi","sans-serif";
+    font-weight: bold;
+    font-size: 70px;
+    text-align:center;
+}
+
+
+

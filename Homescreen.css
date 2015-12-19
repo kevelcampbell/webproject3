@@ -1,0 +1,143 @@
+div.read{
+   font-weight: normal;
+}
+
+div.info{
+    background-color: #a5bdd3;
+    margin-bottom: 2px;
+    height:40px;
+}
+
+button.mail1{
+    height:40px;
+    width:100%;
+    position: absolute;
+    background-color: transparent;
+}
+
+a {
+    color: #A5BDD3;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #6AE36D;
+    text-decoration: none;
+}
+
+div#main{
+    background-color: transparent;
+    padding: 30px 30px 100px 30px;
+}
+
+div#inlay{
+    background-color: white;
+    opacity:2;
+    height: 430px;
+    width: 90%;
+    position: relative;
+    float: right;
+}
+body{
+    font-family: "Tahoma";
+    font-size: 1.5em;
+}
+div#title{
+    border-bottom: 1px solid #a5bdd3;
+    border-top: 1px solid #a5bdd3;
+}
+.logout{
+    text-align:right;
+    clear:left;
+    float:right;
+}
+#compose{
+    padding: 4px;
+}
+span#cheap{
+    font-family: "Papyrus", serif;
+    font-size: 1.5em;
+    color: white;
+}
+span.admin{
+    font-family: "Times New Roman";
+    color: white;
+    display:inline;
+}
+body{
+    background-image: url(CheaWallpapers.jpg);
+}
+div#email{
+    background-color: #a5bdd3;
+    height: 400px;
+    width: 94.5%;
+    position: fixed;
+    opacity: 0.65;
+}
+div#com{
+    text-align: center;
+    background-color: #a5bdd3;
+    height: 333px;
+    width: 35%;
+    position: fixed;
+    margin-top: 21px;
+    margin-left: 420px;
+    border: 5px solid #58a2f5;
+    opacity: 0.85;
+}
+textarea{
+    background-color: #a5bdd3;
+}
+.hide{
+    visibility: hidden;
+}
+div#sent{
+    margin-right: 5%;
+    background-color: transparent;
+}
+div#sub{
+    background-color: transparent;
+}
+div.mail{
+    display: inline;
+}
+div.unread{
+    font-weight: bold;
+    color: red;
+}
+div.tab{
+    font-size: 0.75em;
+    display: inline-block;
+    background-color: white;
+    color: #003366;
+    opacity: 0.7;
+    padding: 4px;
+}
+label{
+    font-size: 0.75em;
+}
+#subject{
+    margin-left:22px;
+}
+#subjectbox{
+    margin-right:68px;
+}
+
+span {
+    font-family:"Kunstler Script","Vivaldi","sans-serif";
+    font-weight: bold;
+    font-size: 60px;
+    text-align:center;
+    color: white;
+}
+
+textarea {
+    border-color: blue;
+    border-style: dashed;
+}
+
+#send {
+    background-color: #6AFF6D;
+}
+
+

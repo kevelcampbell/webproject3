@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <title>Login</title>
+        <link href="login.css" type="text/css" rel="stylesheet"/>
+        <script src ="login.js" type="text/javascript"></script>
+        <script src ="prototype.js" type="text/javascript"></script>
+    </head>
+    <form method="post" action="login.php" onsubmit="loginUser(response)">
+        <div>
+            <span>CheapoMail</span><br/><br/>
+        </div>
+        <div id="Error"></div>
+        <label for = "userName">User Name:</label>
+        <input type="text" name="uName"/><br/><br/>
+        <label for="password">Password:</label>
+        <input type = "password" name="password" id="password"/><br/><br/>
+        <input type="submit" value="Login" id="button"/>
+    </form>
+</html>
